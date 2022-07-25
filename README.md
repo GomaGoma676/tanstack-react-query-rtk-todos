@@ -3,7 +3,7 @@
     npm install --global yarn
     yarn --version
 ### 1-2.  create-react-app
-    npx create-react-app . --template redux-typescript
+    npx create-react-app react-query-todos --template redux-typescript
 ### 1-3.  Tailwind CSS のインストール
 ### https://tailwindcss.com/docs/guides/create-react-app
 1. 下記二つのコマンドの実行
