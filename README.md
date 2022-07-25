@@ -7,10 +7,10 @@
 ### 1-3.  Tailwind CSS のインストール
 ### https://tailwindcss.com/docs/guides/create-react-app
 1. 下記二つのコマンドの実行
-
-yarn add -D tailwindcss postcss autoprefixer
+~~~
+yarn add -D tailwindcss postcss autoprefixer  
 npx tailwindcss init -p
-
+~~~
 2. tailwind.config.jsファイルを開いて、contentの箇所を下記内容に書き換え
 ~~~
 module.exports = {
