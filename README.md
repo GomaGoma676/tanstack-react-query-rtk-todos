@@ -30,7 +30,7 @@ module.exports = {
 @tailwind utilities;
 ~~~
 ### 1-4. @tanstack/react-query axios react-router-dom heroicons のインストール
-    yarn add @tanstack/react-query @tanstack/react-query-devtools react-router-dom @types/react-router-dom axios @heroicons/react
+    yarn add @tanstack/react-query @tanstack/react-query-devtools react-router-dom @types/react-router-dom axios @heroicons/react@1.0.6
 ### 1-5.  prettierの設定 : settingsでRequire Config + Format On Saveにチェック
     touch .prettierrc
 ~~~
